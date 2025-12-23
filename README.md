@@ -7,11 +7,11 @@ I’m actively preparing for full-time software engineering roles and enjoy chal
 
 📜 My Values
 
-- ⚡ Ownership & execution — I take responsibility from idea to delivery
-- 🌱 Continuous growth — I’m always learning, unlearning, and improving
-- 🧠 Clarity over noise — simple designs, clean logic, strong fundamentals
-- 🤝 Honesty & professionalism — in work, communication, and collaboration
-- 🚀 Building with intent — not just projects, but meaningful solutions
+- ⚡ Ownership & execution - I take responsibility from idea to delivery
+- 🌱 Continuous growth - I’m always learning, unlearning, and improving
+- 🧠 Clarity over noise - simple designs, clean logic, strong fundamentals
+- 🤝 Honesty & professionalism - in work, communication, and collaboration
+- 🚀 Building with intent - not just projects, but meaningful solutions
 
 ## 📬 Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deekshithareddyn/)
