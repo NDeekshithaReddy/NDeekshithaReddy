@@ -1,7 +1,7 @@
 ## Hi there 👋
 I’m Deekshitha Reddy, a final-year B.Tech student in Electronics and Communication Engineering. I enjoy building thoughtful, user-centric products and turning ideas into polished, working systems. 
 
-My interests sit at the intersection of Android development, system design, and applied AI/ML. I’ve worked on projects ranging from custom Android launchers and accessibility-based apps to machine learning systems and automation workflows. I care deeply about writing clean code, understanding why things work, and building software that feels intuitive to real users.
+My interests sit at the intersection of Android development, system design, and applied AI/ML. I’ve worked on projects ranging from custom Android launchers and accessibility-based apps to machine learning systems and RAG pipelines. I care deeply about writing clean code, understanding why things work, and building software that feels intuitive to real users.
 
 I’m actively preparing for full-time software engineering roles and enjoy challenging problems that require both technical depth and product thinking.
 
@@ -10,7 +10,7 @@ I’m actively preparing for full-time software engineering roles and enjoy chal
 - ⚡ Ownership & execution - I take responsibility from idea to delivery
 - 🌱 Continuous growth - I’m always learning, unlearning, and improving
 - 🧠 Clarity over noise - simple designs, clean logic, strong fundamentals
-- 🤝 Honesty & professionalism - in work, communication, and collaboration
+- 🤝 Honesty & professionalism - communicating & collaborating effectively
 - 🚀 Building with intent - not just projects, but meaningful solutions
 
 ## 📬 Get in touch
